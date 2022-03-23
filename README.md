@@ -2,9 +2,9 @@
 
 # WSID-Net
 
-***Version 1: Weakly-supervised Salient Instance Detection, BMVC'2020. (Oral, Best student paper runner-up award)***[ [arXiv](https://arxiv.org/abs/2111.10137) ]
+***V1: Weakly-supervised Salient Instance Detection, BMVC'2020. (Oral, Best student paper runner-up award)***[ [arXiv](https://arxiv.org/abs/2111.10137) ]
 
-***Version 2: Learning to Detect Instance-level Salient Objects using Complementary Image Labels, IJCV'2022.***[ [arXiv](https://arxiv.org/abs/2009.13898) ]
+***V2: Learning to Detect Instance-level Salient Objects using Complementary Image Labels, IJCV'2022.***[ [arXiv](https://arxiv.org/abs/2009.13898) ]
 
 
 ## Code
