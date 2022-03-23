@@ -19,7 +19,7 @@ Google Cloud:
 
 ## Acknowledgment
 
-Our code is based on [IRNet](https://github.com/NVIDIA/MinkowskiEngine). 
+Our code is based on [irn](https://github.com/jiwoon-ahn/irn). 
 
 
 
