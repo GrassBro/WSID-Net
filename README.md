@@ -2,9 +2,7 @@
 
 # WSID-Net
 
-***V1: Weakly-supervised Salient Instance Detection, BMVC'2020. (Oral, Best student paper runner-up award)***[ [arXiv](https://arxiv.org/abs/2111.10137) ]
-
-***V2: Learning to Detect Instance-level Salient Objects using Complementary Image Labels, IJCV'2022.***[ [arXiv](https://arxiv.org/abs/2009.13898) ]
+Learning to Detect Instance-level Salient Objects using Complementary Image Labels, IJCV'2022.***[ [arXiv](https://arxiv.org/abs/2009.13898) ]
 
 
 ## Code
@@ -24,15 +22,6 @@ Our code is based on [irn](https://github.com/jiwoon-ahn/irn).
 
 
 ## Citation
-
-```tex
-@inproceedings{tian2020weakly,
-  title             = {Weakly-supervised Salient Instance Detection},
-  author            = {Tian, Xin and Xu, Ke and Yang, Xin and Yin, Baocai and Lau, Rynson WH},
-  booktitle         = {31st British Machine Vision Virtual Conference (BMVC)},
-  year              = {2020}
-}
-```
 
 ```tex
 @article{tian2022learning,
