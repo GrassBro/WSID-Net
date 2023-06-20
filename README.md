@@ -2,26 +2,26 @@
 
 # WSID-Net
 
-Learning to Detect Instance-level Salient Objects using Complementary Image Labels, IJCV'2022.***[ [arXiv](https://arxiv.org/abs/2009.13898) ]
+Weakly-supervised Salient Instance Detection, BMVC' 2020.
+
+Learning to Detect Instance-level Salient Objects using Complementary Image Labels, IJCV'2022.[ [arXiv](https://arxiv.org/abs/2009.13898) ]
 
 
-## Code
-coming soon..
 
 ## Results
-Baidu Cloud: 
-
-Google Cloud:
-
-
-
-## Acknowledgment
-
-Our code is based on [irn](https://github.com/jiwoon-ahn/irn). 
+Please see it in this repository.
 
 
 
 ## Citation
+```tex
+@inproceedings{tian2020weakly,
+  title={Weakly-supervised Salient Instance Detection},
+  author={Tian, Xin and Xu, Ke and Yang, Xin and Yin, Baocai and Lau, Rynson WH},
+  booktitle={31st British Machine Vision Virtual Conference (BMVC 2020)},
+  year={2020}
+}
+```
 
 ```tex
 @article{tian2022learning,
